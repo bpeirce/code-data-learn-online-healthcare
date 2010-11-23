@@ -1,0 +1,12 @@
+{
+	"name": "The Code/Data/Learn Loop in Online Healthcare",
+	"sections":
+	[
+		{"section":"title"}, 
+		{"section":"about"},
+		{"section":"technology"},
+		{"section":"code_data_learn"},
+		{"section":"future"},
+		{"section":"conclusion"}
+	]
+}
